@@ -1,3 +1,3 @@
 # GPUOptimizedCNN
 
-See attached pdf explaining how I sped up the forward pass
+See attached report explaining how I sped up the forward pass
